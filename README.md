@@ -2,7 +2,7 @@
 
 ## introduction
 
-A blog application that lets you post blog to database. its my 2nd full application where i have used CRUD operations, 
+A blog application that lets you post and store blogs to  Mongo DB database. its my 2nd full application where i have used CRUD operations, 
 built using the MVC Architecture .
 
 ## Install all the dependencies or node packages used for development via Terminal
